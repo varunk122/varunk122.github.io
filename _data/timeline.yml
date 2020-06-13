@@ -45,9 +45,9 @@
   timeline-side: left
 
 - title: Resonance Eduventures
-  # title-url: https://example.com/
+  title-url: https://www.resonance.ac.in/
   date: 2018 - 2019
-  # subtitle: Front-End Developer as Intern
+  subtitle: IIT JEE Coaching
   # tags:
     # - tag: React
     # - tag: Node
@@ -55,7 +55,7 @@
   timeline-side: right
 
 - title: St.Marys School, Mainpuri
-  # title-url: https://example.com/
+  title-url: https://www.stmarysmainpuri.in/
   date: 2006 - 2018
   subtitle: Schooling
   timeline-side: left

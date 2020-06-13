@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Autonomous Landing On A Moving Platform
-  descr: "- In this project , we have tried to land a UAV autonomously on a moving platform. \n - We have "
+  descr: "In this project , we have tried to land a UAV autonomously on a moving platform. We used both openCV and GPS data and made some modifications in the MPC controller to make it land precisely over the moving platform. "
   demo: https://github.com/AerialRobotics-IITK/ariitk_auto_landing
   tags:
     - tag: ROS
@@ -22,7 +22,7 @@
     - tag: C++
     - tag: Gazebo
 
-# - name: project Y
+# - name: Conversational Robot
   # descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   # demo: https://example.com/
   # tags:
