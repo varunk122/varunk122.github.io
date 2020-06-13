@@ -7,9 +7,9 @@
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
-        {% if project.demo %}
+        {% if project.code %}
           <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
-            Demo
+            code
           </a>
         {% endif %}
         {% if project.tags %}
@@ -71,7 +71,7 @@
           <p class="project-desc">{{repository.description}}</p>
           {% if repository.homepage != "" and repository.homepage != nil %}
             <a class="highlight-link" href="{{repository.homepage}}" target="_blank" rel="noreferrer">
-              Demo
+              code
             </a>
           {% endif %}
           <a class="highlight-link" href="{{repository.html_url}}" target="_blank" rel="noreferrer">
