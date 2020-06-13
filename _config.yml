@@ -14,7 +14,7 @@ baseurl: ""
 username: Varun
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Pro Procastinator
 # email: Your E-Mail address for the email button.
 email: varunk@iitk.ac.in
 # For every social button you want to display, set your username or userid
@@ -23,7 +23,7 @@ email: varunk@iitk.ac.in
 github_username: varunk122
 codepen_username: 
 dev_username: 
-linkedin_username: exampleUser
+linkedin_username: https://www.linkedin.com/in/varun-khatri-b8a867196/
 twitter_username: 
 
 # ABOUT ME SECTION

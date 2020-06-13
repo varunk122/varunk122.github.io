@@ -5,8 +5,8 @@
 # - name: Framework
 #   weight: 5
 
-# - name: Angular
-#   weight: 5
+- name: Keras
+  weight: 3
 
 # - name: AngularJS
 #   weight: 3

@@ -52,10 +52,10 @@
     # - tag: React
     # - tag: Node
     # - tag: Javascript
-  # timeline-side: right
+  timeline-side: right
 
 - title: St.Marys School, Mainpuri
   # title-url: https://example.com/
   date: 2006 - 2018
-  # subtitle:
+  subtitle: Schooling
   timeline-side: left
