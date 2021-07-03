@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: "Autonomous Landing On A Moving Platform"
+ - name: "Autonomous Landing On A Moving Platform"
   descr: "In this project , we have tried to land a UAV autonomously on a moving platform. We used both openCV and GPS data and made some modifications in the MPC controller to make it land precisely over the moving platform. <a class="highlight-link" href="https://github.com/AerialRobotics-IITK/ariitk_auto_landing" target="_blank" rel="noreferrer"> code </a>"
   # code: https://github.com/AerialRobotics-IITK/ariitk_auto_landing/
   tags:
